@@ -1,2 +1,4 @@
 my_dynamic_lib/.vs/
 my_dynamic_lib.*
+*.obj
+my_dynamic_lib/Debug/
