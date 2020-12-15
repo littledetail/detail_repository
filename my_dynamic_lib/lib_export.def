@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+display	@1
+sum @2

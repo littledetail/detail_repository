@@ -10,4 +10,10 @@
 // 添加要在此处预编译的标头
 #include "framework.h"
 
+#include <stdio.h>
+
+void display();
+
+int sum(int num1, int num2);
+
 #endif //PCH_H
