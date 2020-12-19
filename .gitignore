@@ -1,0 +1,6 @@
+test_repository/.vs/
+*.tlog
+test_repository/Debug/test_repository.exe.recipe
+*.txt
+*.idb
+*.user
